@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <div className="title-container">
         <h1>Dog Gallery</h1>
-        <h2>Thank you for the course!</h2>
+        <h3>Thank you for the course!</h3>
       </div>
       <Gallery />
     </div>
